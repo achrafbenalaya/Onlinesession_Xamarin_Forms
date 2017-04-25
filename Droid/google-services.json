@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "727172507390",
+    "firebase_url": "https://onlinesessionhub-bdd84.firebaseio.com",
+    "project_id": "onlinesessionhub-bdd84",
+    "storage_bucket": "onlinesessionhub-bdd84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727172507390:android:1259435fabfd0220",
+        "android_client_info": {
+          "package_name": "com.xamarin.sample.Onlinesession"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727172507390-6dibd1880nbquapsdha9f5m7ghghvvnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAj5uCvKLLp_aW4OZFGcJJk3xiaXGWO3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
